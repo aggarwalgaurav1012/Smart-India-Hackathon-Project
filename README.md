@@ -1,2 +1,2 @@
-# Smart-India-Hackathon-Project
-Indian Travel and Tourism Website - TRAVELLO
+# TRAVELLO
+Indian Travel and Tourism Website
